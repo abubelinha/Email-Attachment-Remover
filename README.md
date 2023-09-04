@@ -23,3 +23,16 @@
 # Hint
 
 Run it on a fast internet connection as it has to download all mails and attachments and partly upload it again
+
+# Related projects (Gmail attachments removal):
+
+https://support.google.com/mail/thread/33445561/how-can-i-detach-attachments-in-gmail
+https://www.broobles.com/imapsize/imap-delete-attachments.php
+
+https://www.reddit.com/r/GMail/comments/lygc56/imapsize_alternative/
+Java cmd line: https://github.com/vadimkim/imapsize
+
+https://www.quora.com/Is-there-an-alternative-to-IMAP-size-that-works-with-Gmail-IMAPsize-has-the-unique-feature-where-it-can-edit-emails-via-IMAP-and-it-will-keep-the-email-and-headers-but-remove-the-file-attachments-it-leaves-a-message
+Python cmd line: http://lacinato.com/cm/blog/27-imapsizereducer
+http://lacinato.com/pub/email/imap_size_reducer.py
+https://gist.github.com/paloha/a5dc2843a342b1f8b814c92a098ca2a2
